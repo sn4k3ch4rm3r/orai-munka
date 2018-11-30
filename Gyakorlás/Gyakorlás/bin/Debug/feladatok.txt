@@ -1,0 +1,5 @@
+1. Olvasd be egy tömbbe!
+2. Mennyi a számok összege?
+3. Mennyi a számok átlaga?
+4. Van-e benne páros szám?
+5. Hány páratlan szám van?

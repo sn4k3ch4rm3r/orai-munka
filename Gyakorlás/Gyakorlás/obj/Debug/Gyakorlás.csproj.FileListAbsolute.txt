@@ -1,0 +1,14 @@
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.exe.config
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.exe
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.pdb
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.csprojAssemblyReference.cache
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.csproj.CoreCompileInputs.cache
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.exe
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.pdb
+D:\Users\Boldizsar\C#\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.exe.config
+D:\Users\Boldizsar\C#\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.exe
+D:\Users\Boldizsar\C#\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.pdb
+D:\Users\Boldizsar\C#\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.csprojAssemblyReference.cache
+D:\Users\Boldizsar\C#\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.csproj.CoreCompileInputs.cache
+D:\Users\Boldizsar\C#\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.exe
+D:\Users\Boldizsar\C#\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.pdb
