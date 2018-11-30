@@ -1,0 +1,7 @@
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás2\Gyakorlás2\obj\Debug\Gyakorlás2.csprojAssemblyReference.cache
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás2\Gyakorlás2\obj\Debug\Gyakorlás2.csproj.CoreCompileInputs.cache
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás2\Gyakorlás2\bin\Debug\Gyakorlás2.exe.config
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás2\Gyakorlás2\bin\Debug\Gyakorlás2.exe
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás2\Gyakorlás2\bin\Debug\Gyakorlás2.pdb
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás2\Gyakorlás2\obj\Debug\Gyakorlás2.exe
+D:\Tóth Boldizsár 9.P\C#\Gyakorlás2\Gyakorlás2\obj\Debug\Gyakorlás2.pdb
