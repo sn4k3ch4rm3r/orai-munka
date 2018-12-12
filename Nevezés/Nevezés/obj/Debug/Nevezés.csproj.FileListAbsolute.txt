@@ -1,0 +1,7 @@
+D:\Tóth Boldizsár 9.P\C#\Nevezés\Nevezés\bin\Debug\Nevezés.exe.config
+D:\Tóth Boldizsár 9.P\C#\Nevezés\Nevezés\bin\Debug\Nevezés.exe
+D:\Tóth Boldizsár 9.P\C#\Nevezés\Nevezés\bin\Debug\Nevezés.pdb
+D:\Tóth Boldizsár 9.P\C#\Nevezés\Nevezés\obj\Debug\Nevezés.csprojAssemblyReference.cache
+D:\Tóth Boldizsár 9.P\C#\Nevezés\Nevezés\obj\Debug\Nevezés.csproj.CoreCompileInputs.cache
+D:\Tóth Boldizsár 9.P\C#\Nevezés\Nevezés\obj\Debug\Nevezés.exe
+D:\Tóth Boldizsár 9.P\C#\Nevezés\Nevezés\obj\Debug\Nevezés.pdb
