@@ -1,0 +1,7 @@
+D:\Tóth Boldizsár 9.P\C#\Karakterek\Karakterek\bin\Debug\Karakterek.exe.config
+D:\Tóth Boldizsár 9.P\C#\Karakterek\Karakterek\bin\Debug\Karakterek.exe
+D:\Tóth Boldizsár 9.P\C#\Karakterek\Karakterek\bin\Debug\Karakterek.pdb
+D:\Tóth Boldizsár 9.P\C#\Karakterek\Karakterek\obj\Debug\Karakterek.csprojAssemblyReference.cache
+D:\Tóth Boldizsár 9.P\C#\Karakterek\Karakterek\obj\Debug\Karakterek.csproj.CoreCompileInputs.cache
+D:\Tóth Boldizsár 9.P\C#\Karakterek\Karakterek\obj\Debug\Karakterek.exe
+D:\Tóth Boldizsár 9.P\C#\Karakterek\Karakterek\obj\Debug\Karakterek.pdb
