@@ -1,0 +1,21 @@
+D:\Tóth Boldizsár 9.P\C#\Karácsony\Karácsony\bin\Debug\Karácsony.exe.config
+D:\Tóth Boldizsár 9.P\C#\Karácsony\Karácsony\bin\Debug\Karácsony.exe
+D:\Tóth Boldizsár 9.P\C#\Karácsony\Karácsony\bin\Debug\Karácsony.pdb
+D:\Tóth Boldizsár 9.P\C#\Karácsony\Karácsony\obj\Debug\Karácsony.csprojAssemblyReference.cache
+D:\Tóth Boldizsár 9.P\C#\Karácsony\Karácsony\obj\Debug\Karácsony.csproj.CoreCompileInputs.cache
+D:\Tóth Boldizsár 9.P\C#\Karácsony\Karácsony\obj\Debug\Karácsony.exe
+D:\Tóth Boldizsár 9.P\C#\Karácsony\Karácsony\obj\Debug\Karácsony.pdb
+I:\C#\Karácsony\Karácsony\bin\Debug\Karácsony.exe.config
+I:\C#\Karácsony\Karácsony\bin\Debug\Karácsony.exe
+I:\C#\Karácsony\Karácsony\bin\Debug\Karácsony.pdb
+I:\C#\Karácsony\Karácsony\obj\Debug\Karácsony.csprojAssemblyReference.cache
+I:\C#\Karácsony\Karácsony\obj\Debug\Karácsony.csproj.CoreCompileInputs.cache
+I:\C#\Karácsony\Karácsony\obj\Debug\Karácsony.exe
+I:\C#\Karácsony\Karácsony\obj\Debug\Karácsony.pdb
+F:\C#\Karácsony\Karácsony\bin\Debug\Karácsony.exe.config
+F:\C#\Karácsony\Karácsony\bin\Debug\Karácsony.exe
+F:\C#\Karácsony\Karácsony\bin\Debug\Karácsony.pdb
+F:\C#\Karácsony\Karácsony\obj\Debug\Karácsony.csprojAssemblyReference.cache
+F:\C#\Karácsony\Karácsony\obj\Debug\Karácsony.csproj.CoreCompileInputs.cache
+F:\C#\Karácsony\Karácsony\obj\Debug\Karácsony.exe
+F:\C#\Karácsony\Karácsony\obj\Debug\Karácsony.pdb
